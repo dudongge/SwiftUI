@@ -1,0 +1,9 @@
+# 忽略当前目录的 .DS_Store
+.DS_Store
+
+# 忽略所有子目录中的 .DS_Store
+**/.DS_Store
+
+# 其他需要忽略的文件（可选）
+*.log
+node_modules/
